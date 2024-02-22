@@ -2,6 +2,8 @@
 
 The implementation is based on the Instruction Set for Intel 8086 Architecture and can be tested using the DOSBox Emulator & Microsoft Macro Assembler (MASM).
 
+Commands:
+
 - 0 - Program redraws the rectangle as unfilled.
 
 - 1	- Program redraws the rectangle as filled.
